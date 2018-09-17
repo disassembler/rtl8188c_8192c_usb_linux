@@ -2,3 +2,11 @@ result*
 *.o
 *.a
 *.so
+*.ko
+*.mod
+*.mod.c
+*.o.cmd
+*.cmd
+Module.symvers
+modules.order
+*.o.d
